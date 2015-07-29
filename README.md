@@ -1,9 +1,4 @@
----
-language: none
-tags: browser, javascript, dom, document object model
-type: resources
-resources: 4
----
+
 
 ## Resources
 
