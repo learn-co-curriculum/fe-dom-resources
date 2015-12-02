@@ -6,3 +6,4 @@
 - [Video: Channel9 - Understanding the DOM for Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners/Understanding-the-Document-Object-Model-13)
 - [MDN - DOM Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [OverAPI - DOM Cheatsheet Reference](http://overapi.com/html-dom/)
+<a href='https://learn.co/lessons/fe-dom-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
